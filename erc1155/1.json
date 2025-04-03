@@ -30,6 +30,10 @@
     ],
     "properties": {
     "external_url": "https://github.com/moonhee0507/",
-    "category": "Collectible"
+    "category": "Collectible",
+    "collection": {
+        "name": "We Are the Dust of Stars",
+        "image": "https://moonhee0507.github.io/nft-metadata/we-are-the-dust-of-stars/logo.jpeg"
+    }
   }
 }
