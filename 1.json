@@ -1,0 +1,27 @@
+{
+    "name": "Charmander NFT #1",
+    "description": "A test NFT on Sepolia. This is a Charmander. Creator is Hee:)",
+    "image": "https://moonhee0507.github.io/nft-metadata/charmander/1.png",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Level",
+            "value": 1
+        },
+        {
+            "trait_type": "HP",
+            "value": 39
+        },
+        {
+            "trait_type": "Attack",
+            "value": 52
+        },
+        {
+            "trait_type": "Defense",
+            "value": 43
+        }
+    ]
+}
