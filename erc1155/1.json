@@ -1,0 +1,35 @@
+{
+    "name": "Moon #1",
+    "description": "A test NFT on Sepolia. This is a Moon. Creator is Hee:) Behold the serene beauty of the Last Quarter Moon, captured in stunning detail. This digital artwork showcases the intricate textures of the lunar surface, from its ancient craters and majestic maria to the subtle variations in its greyish hues. The realistic depiction extends to the surrounding expanse of space, dotted with distant stars and hints of cosmic dust, creating a truly immersive celestial vista.\n\nThe Moon, Earth's only natural satellite, plays a vital role in our planet's tides and has captivated humanity for millennia. It is not self-luminous; instead, it reflects sunlight, which is why we see its phases as it orbits Earth approximately every 27.3 days (a sidereal month). The Last Quarter Moon occurs when the Moon is at a 90-degree angle relative to the Earth and the Sun, as seen from Earth. During this phase, the left half of the Moon appears illuminated from the Northern Hemisphere.\n\nThe Moon's surface is covered in regolith, a powdery layer of broken rock and dust formed by meteorite impacts over billions of years. These impacts have also created the numerous craters that mark its face. The darker, smoother areas known as maria (Latin for 'seas') are vast plains formed by ancient volcanic eruptions. With no atmosphere to significantly erode these features, the Moon preserves a remarkable record of the solar system's early history. This NFT offers a glimpse into the captivating and scientifically rich world of our closest celestial neighbor.",
+    "image": "https://moonhee0507.github.io/nft-metadata/moon/1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Phase",
+            "value": "Last Quarter"
+        },
+        {
+            "trait_type": "Realism",
+            "value": "High"
+        },
+        {
+            "trait_type": "Aesthetic",
+            "value": "Beautiful"
+        },
+        {
+            "trait_type": "Subject",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Surroundings",
+            "value": "Realistic Space"
+        },
+        {
+            "trait_type": "Center Focus",
+            "value": "Moon"
+        }
+    ],
+    "properties": {
+    "external_url": "https://github.com/moonhee0507/",
+    "category": "Collectible"
+  }
+}
